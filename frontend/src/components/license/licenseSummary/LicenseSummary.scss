@@ -1,0 +1,28 @@
+.license-summary {
+  width: 100%;
+  .info-summary {
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+  }
+}
+
+.card {
+  border: 1px solid #ccc;
+  // border-bottom: 3px solid var(--light-blue);
+  padding: 5px;
+  background-color: #1d1e21;
+}
+
+.card1 {
+  background-color: #ff6f61;
+}
+.card2 {
+  background-color: #32963d;
+}
+.card3 {
+  background-color: #c41849;
+}
+.card4 {
+  background-color: #03a5fc;
+}
