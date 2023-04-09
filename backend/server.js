@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: ["https://tm-k9ur.onrender.com"],
+    origin: ["tms-flax.vercel.app"],
     credentials: true,
   })
 );
